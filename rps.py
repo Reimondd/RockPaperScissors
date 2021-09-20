@@ -27,7 +27,7 @@ while True:
         pass
     elif playerMove == "ROCK" and botMove == "PAPER":
         print("Your move: "+ playerMove + "\n" + "Bot move: " + botMove +"\n\n")
-        print("Rock beats paper, "+ insult)
+        print("Paper beats rock, "+ insult)
         pass
     elif playerMove == "ROCK" and botMove == "SCISSORS":
         print("Your move: "+ playerMove + "\n" + "Bot move: " + botMove +"\n\n")
